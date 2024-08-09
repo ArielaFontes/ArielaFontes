@@ -22,7 +22,7 @@
 
 ###
 
-<h3 align="left">STATS</h3>
+<h3 align="center">STATS</h3>
 
 ###
 
@@ -32,7 +32,7 @@
 
 ###
 
-<h3 align="left">SOCIAL</h3>
+<h3 align="center">SOCIAL</h3>
 
 ###
 
