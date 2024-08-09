@@ -1,4 +1,4 @@
-<h2 align="left">ABOUT ME:</h2>
+<h2 align="center">ABOUT ME:</h2>
 
 ###
 
@@ -8,7 +8,7 @@
 
 ###
 
-<h3 align="left">TECHS</h3>
+<h3 align="center">TECHS</h3>
 
 ###
 
