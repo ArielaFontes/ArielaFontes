@@ -3,7 +3,7 @@
 ###
 
 <br clear="both">
-![image](https://github.com/user-attachments/assets/ce10c807-2e10-4630-8904-ac6a63c71a6c)
+(https://github.com/user-attachments/assets/ce10c807-2e10-4630-8904-ac6a63c71a6c);
 
 <p align="center">- Pedagogy and Programming student<br>- Frelance Front-End developer</p>
 
