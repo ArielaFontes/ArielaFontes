@@ -1,11 +1,9 @@
-<h2 align="center">ABOUT ME:</h2>
+<h2 align="center">ABOUT ME: :octocat:</h2> 
 
-###
 
 <br clear="both">
-(https://github.com/user-attachments/assets/ce10c807-2e10-4630-8904-ac6a63c71a6c);
 
-<p align="center">- Pedagogy and Programming student<br>- Frelance Front-End developer</p>
+<p align="center">:notebook_with_decorative_cover:- Pedagogy and Programming student<br>- Frelance Front-End developer</p>
 
 ###
 
