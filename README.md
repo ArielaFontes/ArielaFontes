@@ -1,9 +1,15 @@
-<h2 align="center">ABOUT ME:  :octocat:</h2> 
+<h2 align="center">ABOUT ME: 🤖 </h2> 
 
 
 <br clear="both">
 
-<p align="center">:notebook_with_decorative_cover:- Pedagogy and Programming student<br>- Frelance Front-End developer</p>
+
+<h3>:notebook_with_decorative_cover:  Sobre mim: :notebook_with_decorative_cover: </h3>
+<p>
+  ° Graduanda em Pedagogia;<br>
+  ° Tenho um perfil organizado, valorizo o planejamento estou desenvolvendo minhas habilidade;<br>
+  ° Estou estudando JavaScript, Node.js. <br>
+</p>
 
 ###
 
