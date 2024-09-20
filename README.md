@@ -2,9 +2,6 @@
 
 
 <br clear="both">
-
-
-<h3>:notebook_with_decorative_cover:  Sobre mim: :notebook_with_decorative_cover: </h3>
 <p>
   ° Graduanda em Pedagogia;<br>
   ° Tenho um perfil organizado, valorizo o planejamento estou desenvolvendo minhas habilidade;<br>
