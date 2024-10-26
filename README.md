@@ -3,7 +3,7 @@
 
 <br clear="both">
 <p>
-  ° Graduanda em Pedagogia;<br>
+  ° Graduanda em Pedagogia e Análise e Desenvolvimento de Sistemas;<br>
   ° Tenho um perfil organizado, valorizo o planejamento estou desenvolvendo minhas habilidade;<br>
   ° Estou estudando JavaScript, Node.js. <br>
 </p>
