@@ -2,15 +2,16 @@
 
 <h2 align="center">ABOUT ME: 🤖 </h2>
 <br>
-<p align="center">
-Graduanda em Pedagogia, sempre fui apaixonada pela área da educação e pelo potencial<br> transformador que ela possui.
-No entanto, ao longo da minha formação, descobri uma outra <br>paixão: a tecnologia. Minha busca por conhecimento
+<div class=bio align="center"><p>
+Graduanda em Pedagogia, sempre fui apaixonada pela área da educação e pelo potencial transformador<br> que ela possui.
+No entanto, ao longo da minha formação, descobri uma outra paixão: a tecnologia.<br> Minha busca por conhecimento
  na área da tecnologia é constante. <br>🤌💾✏️
 
 Cursando 📚:<br>
 Pedagogia 2021||2025<br>
 Análise e Desenvolvimento de Sistemas 2024||2027
 </p>
+<div>
 <br>
 
 <div align="center">
