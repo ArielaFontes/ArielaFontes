@@ -30,7 +30,7 @@ Análise e Desenvolvimento de Sistemas 2024||2027
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin logo"  />
   </a>
   <a href="https://www.instagram.com/aaaaaaela7/" target="_blank">
-    <img src=https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram logo"  />
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram logo"  />
   </a>
 </div>
 
