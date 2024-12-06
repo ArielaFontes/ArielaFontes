@@ -2,7 +2,7 @@
 
 <h2 align="center">ABOUT ME: 🤖 </h2>
 <br>
-<p align="left">
+<p align="center">
 Graduanda em Pedagogia, sempre fui apaixonada pela área da educação e pelo potencial<br> transformador que ela possui.
 No entanto, ao longo da minha formação, descobri uma outra <br>paixão: a tecnologia. Minha busca por conhecimento
  na área da tecnologia é constante. <br>🤌💾✏️
